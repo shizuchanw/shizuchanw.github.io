@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm a 4th year undergrad at UCLA. I study Mathematical Economics and Japanese. \
+Interested Fields: NLP, Machine Learning, quantitative trading, health care
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[florawang0611@gmail.com](mailto:florawang0611@gmail.com)
