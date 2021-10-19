@@ -9,7 +9,7 @@ name: Flora's Blog
 description: Flora Wang
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/50822201
+avatar: {{site.baseurl}}/images/avatar.jpeg
 
 #
 # Flags below are optional
