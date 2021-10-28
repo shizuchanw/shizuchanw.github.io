@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Flora's Tutorial Blog
+name: Flora Wang Tutorial Blog
 
 # Short bio or description (displayed in the header)
-description: Flora's blog for writing python tutorials!
+description: python tutorials
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{site.baseurl}}/images/avatar.jpeg
+avatar: https://avatars.githubusercontent.com/u/50822201
 
 #
 # Flags below are optional
